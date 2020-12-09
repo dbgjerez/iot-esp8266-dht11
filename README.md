@@ -2,7 +2,7 @@
 
 # Configuration
 | Variable | Default value | Description |
-| ------ | ------ |
+| ------ | ------ | ------ |
 | DHT_PIN | D2 | Digital pin where is connected the data sensor output |
 | DHTTYPE | DHT11 | Sensor version |
 | DELAY | 5000 | Milliseconds between reading |
