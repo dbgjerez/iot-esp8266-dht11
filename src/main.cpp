@@ -37,7 +37,7 @@ void loop() {
   Serial.print(F("Temperature: "));
   Serial.print(t);
   Serial.print(F("°C "));
-  Serial.print(F("Head index: "));
+  Serial.print(F("Heat index: "));
   Serial.print(hic);
   Serial.print(F("°C"));
 
