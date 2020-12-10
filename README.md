@@ -1,5 +1,14 @@
 # (IOT) Internet of things with esp8266 and DHT-11 sensor
 
+# Components
+* NodeMCU
+* DHT11 sensor
+* Breadboard
+
+# Architecture
+![Architecture schema](schema/schema_v1.0.png)
+
+
 # Configuration
 | Variable | Default value | Description |
 | ------ | ------ | ------ |
